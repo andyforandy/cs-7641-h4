@@ -3,4 +3,5 @@
 to run navigate to Solutions folder:
 
 python easyGW.py
+
 python hardGW.py
