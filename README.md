@@ -1,3 +1,6 @@
 # cs-7641-h4
 
-to run:
+to run navigate to Solutions folder:
+
+python easyGW.py
+python hardGW.py
